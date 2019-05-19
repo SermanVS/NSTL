@@ -1,0 +1,7 @@
+#  |      Name| Last Name|       Age|    Dept P||   Project|       CPU|    Memory|          
+   |          |          |          |         M||   Project|  Customer|   Progers|          
+   |          |          |          |         S||   Address|  Customer|    Weight| Transport
+--------------------------------------------------------------------------------------------
+  0      Meow        Kycb         20    Prog-s      Food    Stomach      10000
+  1      Kifa        Kisa         19       Mng Dokopatsa     Sergei          9
+  2    Sergei  Tikhomirov         20      Ship       Bor      Stark        210
