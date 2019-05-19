@@ -1,0 +1,9 @@
+#  |      Name| Last Name|       Age|    Dept P||   Project|       CPU|    Memory|          
+   |          |          |          |         M||   Project|  Customer|   Progers|          
+   |          |          |          |         S||   Address|  Customer|    Weight| Transport
+--------------------------------------------------------------------------------------------
+  0      Kifa        Meow         19
+  1      Meow        Kycb         23
+  2   Richard   Hendricks         24
+  3    Monica      Reynor         25
+  4    Sergei  Tikhomirov         20
